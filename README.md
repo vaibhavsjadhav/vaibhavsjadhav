@@ -1,3 +1,4 @@
+![logo](https://github.com/vaibhavsjadhav/vaibhavsjadhav/blob/main/android.gif)
 <h1 align="center">Hi 👋, I'm Vaibhav Jadhav</h1>
 <h3 align="center">"Aspiring Java and Android Developer in Training 🚀 Passionate about learning the art of coding and crafting Android applications. On a journey to master Java and dive into the world of Android development. Eager to grow, create, and make an impact. Let's connect and share the learning adventure! #JavaLearning #AndroidDevelopment"</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
