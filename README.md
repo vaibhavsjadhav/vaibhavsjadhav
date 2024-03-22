@@ -6,12 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Weather App**
-
-- 🌱 I’m currently learning **Java & Android**
-
-- 💬 Ask me about **Java , Android**
-
+- 🌱 I’m currently learning **Java Full Stack**
+- 
 - 📫 How to reach me **vaibhavsjadhav9@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
