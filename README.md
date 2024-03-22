@@ -1,6 +1,6 @@
 ![logo](https://github.com/vaibhavsjadhav/vaibhavsjadhav/blob/main/android.gif)
 <h1 align="center">Hi 👋, I'm Vaibhav Jadhav</h1>
-<h3 align="center">"Aspiring Java and Android Developer in Training 🚀 Passionate about learning the art of coding and crafting Android applications. On a journey to master Java and dive into the world of Android development. Eager to grow, create, and make an impact. Let's connect and share the learning adventure! #JavaLearning #AndroidDevelopment"</h3>
+<h3 align="center">""Dynamic Java Full Stack Developer specializing in frontend and backend development. Skilled in Java, JavaScript, and modern frameworks. Dedicated to crafting high-quality solutions and delivering exceptional user experiences. Passionate about innovation and continuously enhancing skills to stay at the forefront of technology"</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavsjadhav&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavsjadhav" /> </p>
 
